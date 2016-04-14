@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AtividadeConvite</string>
+    <string name="buscaNome">Busca Pelo Nome</string>
+    <string name="buscaQR">Busca Pelo QRCode</string>
+    <string name="textViewBuscarNomes">Buscar</string>
+</resources>
